@@ -1,5 +1,5 @@
 import { useState } from "react";
-import useTimeout from "../hooks/useTimeOut";
+import useTimeout from "../hooks/useTimeout";
 
  function TimeoutDemo() {
   const [show, setShow] = useState(false);
